@@ -27,4 +27,5 @@ $ python2 Wa.py
 Creator : ./Anonymous
 
 Youtube : https://youtube.com/channel/UCpcq-J00Uzsd1kfNqTlmMBQ
+
 telegram : https://t.me/anonymous_cyberhack1/

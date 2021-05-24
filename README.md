@@ -17,7 +17,7 @@ $ pkg install python2
 $ pip2 install requests
 
 
-$ git clone https://github.com/Randi356/Spam-Wa-Hack
+$ git clone https://github.com/Randi356/Spam-Wa-Hack-git
 
 cd Spam-Wa
 

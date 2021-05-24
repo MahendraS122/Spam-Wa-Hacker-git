@@ -195,9 +195,9 @@ def Tokped():
                    
 def Spam():
 	os.system('clear')
-	print(C+'Subscribe YT'+W+' AKU kontol !'+C+' :)')
+	print(C+'Chat Join'+W+' PM !'+C+' :)')
 	sleep(1.5)
-	os.system('xdg-open https://youtube.com/channel/UCpcq-J00Uzsd1kfNqTlmMBQ')
+	os.system('xdg-open https://t.me/anonymous_cyberhack1/')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
